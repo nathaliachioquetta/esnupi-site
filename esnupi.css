@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(255, 231, 212);
+    width: 50%;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    margin: auto;
+}
+
+hr{
+    border:0;
+    border-top: 2px solid rgb(194, 144, 70);
+}
+
+
+h1{
+    color: rgb(194, 144, 70);
+}
+
+h2{
+    color: rgb(194, 144, 70);
+}
